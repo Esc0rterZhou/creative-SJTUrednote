@@ -1,0 +1,4 @@
+interface:
+  display_name: "creative SJTUrednote"
+  short_description: "分析高校与文旅官号风格，核验小红书和抖音案例数据，生成创意选题与推荐理由"
+  default_prompt: "使用 $creative-sjtu-rednote 分析目标官号的原创风格，筛选10条近期创意参考，并按已核验数据撰写推荐理由；没有特殊节点或近期热梗就省略对应条目。"
